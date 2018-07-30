@@ -1,0 +1,95 @@
+body {
+    background: #fff
+}
+
+.appointment-form .form-header a,
+.appointment-form .form-header h4 {
+    color: #fff
+}
+
+body {
+    color: #5c5c5c
+}
+
+.form-control:focus {
+    border-color: #c2c2c2
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #818181
+}
+
+.header {
+    background-color: #f7f7f5
+}
+
+::-moz-selection {
+    background: #f44;
+    color: #fff
+}
+
+::selection {
+    background: #f44;
+    color: #fff
+}
+
+.caption-title {
+    color: #0a750a
+}
+
+.phone-icon,
+.text-highlight,
+a,
+a:focus,
+a:hover {
+    color: #0a750a
+}
+
+.phone-icon {
+    border-color: #0a750a
+}
+
+.section-title hr {
+    border-top-color: #0a750a
+}
+
+.appointment-form .form-header {
+    background-color: #0a750a;
+    border-color: #0a750a
+}
+
+.btn-default {
+    color: #f44;
+    border-color: #fff
+}
+
+.btn-default:active,
+.btn-default:focus,
+.btn-default:hover {
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff
+}
+
+.btn-success {
+    background-color: #0b2206;
+    border-color: #0b2206
+}
+
+.btn-success:active,
+.btn-success:focus,
+.btn-success:hover {
+    background-color: #fff;
+    border-color: #0b2206;
+    color: #0b2206
+}
+
+.btn-success[disabled],
+.btn-success[disabled].focus,
+.btn-success[disabled]:active,
+.btn-success[disabled]:focus,
+.btn-success[disabled]:hover {
+    background-color: #f44;
+    border-color: #f44;
+    color: #fff
+}
